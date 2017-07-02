@@ -1,0 +1,8 @@
+SetEnv TZ Asia/Tokyo
+Options -Indexes
+
+<Directory />
+    Options FollowSymLinks
+    AllowOverride None
+    Require all granted
+</Directory>
